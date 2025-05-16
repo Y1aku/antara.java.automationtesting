@@ -1,3 +1,3 @@
 public class Main {
-  // проверяем Pull
+  // feature code
 }
